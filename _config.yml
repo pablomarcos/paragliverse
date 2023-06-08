@@ -2,8 +2,8 @@
 # as long as the json variables name and description are provided
 title: Paragliverse
 description: Metaverse community for paraglider pilots
-baseurl: ""
-url: https://www.paragliverse.com
+baseurl: "/paragliverse"
+url: https://pablomarcos.github.io/paragliverse
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
