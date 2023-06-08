@@ -1,14 +1,14 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: Hacked Jekyll
-description: Jekyll microtheme that looks like JSON
+title: Paragliverse
+description: Metaverse community for paraglider pilots
 baseurl: ""
-url: https://hacked-jekyll.netlify.app
+url: https://www.paragliverse.com
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: Paragliverse
   description:
     - Hello!
     - This tiny website
