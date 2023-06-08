@@ -11,8 +11,8 @@ json:
   name: Paragliverse
   description:
     - Hello!
-    - This tiny website
-    - Looks like json
+    - Welcome to the metaverse
+    - Where do you want to fly today?
   cv: assets/cv.pdf
   address:
     - University of Jekyll
