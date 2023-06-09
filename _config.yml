@@ -11,23 +11,22 @@ json:
   name: Paragliverse
   description:
     - Hello!
-    - Welcome to the metaverse
+    - Join the paragliverse community
     - Where do you want to fly today?
   #cv: assets/cv.pdf
   address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - Col de Paragliverse
+    - 123 Super Vario St, Annecy, FRA
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
+    #office: Foobar Hall 1.23
+    #phone: +1 234 567 890
+    email: hello *at* paragliverse.com
   #demo: https://hacked-jekyll.netlify.app
   #source: https://github.com/piazzai/hacked-jekyll
   profiles:
     #facebook: https://www.facebook.com
     #twitter: https://twitter.com
-    instagram: https://www.instagram.com
+    instagram: https://www.instagram.com/paragliverse/
     #linkedin: https://www.linkedin.com
     #stackoverflow: https://stackoverflow.com
     #github: https://github.com
