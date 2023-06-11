@@ -1,7 +1,7 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
 title: Paragliverse
-description: Metaverse community for paraglider pilots
+description: Virtual community of paraglider pilots
 baseurl: "/paragliverse"
 url: https://pablomarcos.github.io/paragliverse
 
@@ -15,7 +15,7 @@ json:
     - Where do you want to fly today?
   #cv: assets/cv.pdf
   address:
-    - Col de Paragliverse
+    #- Col de Paragliverse
     - 123 Super Vario St, Annecy, FRA
   contact:
     #office: Foobar Hall 1.23
